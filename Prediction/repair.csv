@@ -1,0 +1,13 @@
+Phone_Age,Repair_Cost,Brand_Type,Decision
+New,Low,Premium,Repair
+New,Low,Normal,Repair
+New,High,Premium,Repair
+New,High,Normal,Replace
+Old,Low,Premium,Repair
+Old,Low,Normal,Repair
+Old,High,Premium,Replace
+Old,High,Normal,Replace
+New,Low,Premium,Repair
+Old,High,Normal,Replace
+New,High,Normal,Replace
+Old,Low,Premium,Repair

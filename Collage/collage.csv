@@ -1,0 +1,16 @@
+Percentage12th,EntranceExam,Category,Admission
+Low,Fail,General,No
+Low,Fail,Reserved,No
+Low,Pass,General,No
+Low,Pass,Reserved,Yes
+Medium,Fail,General,No
+Medium,Fail,Reserved,Yes
+Medium,Pass,General,Yes
+Medium,Pass,Reserved,Yes
+High,Fail,General,Yes
+High,Fail,Reserved,Yes
+High,Pass,General,Yes
+High,Pass,Reserved,Yes
+Low,Pass,General,No
+Medium,Pass,Reserved,Yes
+High,Pass,General,Yes
